@@ -32,7 +32,7 @@ This project demonstrates real-world problem-solving through data-driven decisio
 
 2. **Compile the program**:  
    ```bash  
-   javac HeartTransplant.java HeartTransplantDriver.java Patient.java SurvivabilityByAge.java SurvivabilityByCause.java RecursiveAppend.java StdIn.java StdOut.java StdRandom.java
+   javac HeartTransplant.java HeartTransplantDriver.java Patient.java SurvivabilityByAge.java SurvivabilityByCause.java  StdIn.java StdOut.java StdRandom.java
    
 3. **Run the program**:  
    ```bash  
